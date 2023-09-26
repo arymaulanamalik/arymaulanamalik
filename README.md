@@ -14,6 +14,6 @@
   </a>
 </div>
 
-<div id="views-head">
+<div id="views-head" align="center">
     <img src="https://komarev.com/ghpvc/?username=arymaulanamalik&style=flat-square&color=blue" alt=""/>
 </div>
